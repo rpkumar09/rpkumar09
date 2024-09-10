@@ -3,13 +3,13 @@
 
 🔭 Currently a BTech CSE student at Vidya Jyothi Institute Of Technology, Hyderabad.
 
-📚 Passionate about Web Development, Machine Learning, Surfing the Web, and all other Tech savvy stuff!.
+📚 Passionate about Web Development, Machine Learning, Surfing the Web, and all other Tech-savvy stuff!
 
 💻 My academic journey has equipped me with a solid foundation in Data Structures and Algorithms (Java, Python), Web Development (MERN Stack, MySQL), and Machine Learning (Python). What I might lack in skills, I make up for with my determination to learn.
 
 🤝 Open to collaborations on interesting projects <br></br> <br></br>
 
-<h2 align="center">🛠 Technical Skills 🛠</h2> <p align="center"> <a href="github.com/4bdulQaadir"><img src="https://skillicons.dev/icons?i=python,c,java,html,css,mysql,tensorflow,vscode,github,git,pycharm,aws,opencv,sqlite,sklearn"></a> </p> <h3 align="center">Programming Languages:</h3> <ul> <li>C</li> <li>C++</li> <li>JavaScript</li> </ul> <h3 align="center">Frameworks:</h3> <ul> <li>BootStrap</li> <li>Express.JS</li> <li>React.JS</li> <li>Node.JS</li> </ul> <h3 align="center">Development Tools:</h3> <ul> <li>Git</li> <li>GitHub</li> <li>MongoDB</li> <li>MySQL</li> </ul> <h3 align="center">Web Technologies:</h3> <ul> <li>HTML</li> <li>CSS</li> </ul> <h3 align="center">Other Skills:</h3> <ul> <li>Data Structures</li> <li>Algorithms</li> <li>Operating Systems</li> <li>Object-Oriented Programming (OOP)</li> <li>Database Management System</li> </ul>
+<h2 align="center">🛠 Technical Skills 🛠</h2> <h3 align="center">Programming Languages:</h3> <ul> <li>C</li> <li>C++</li> <li>JavaScript</li> </ul> <h3 align="center">Frameworks:</h3> <ul> <li>BootStrap</li> <li>Express.JS</li> <li>React.JS</li> <li>Node.JS</li> </ul> <h3 align="center">Development Tools:</h3> <ul> <li>Git</li> <li>GitHub</li> <li>MongoDB</li> <li>MySQL</li> </ul> <h3 align="center">Web Technologies:</h3> <ul> <li>HTML</li> <li>CSS</li> </ul> <h3 align="center">Other Skills:</h3> <ul> <li>Data Structures</li> <li>Algorithms</li> <li>Operating Systems</li> <li>Object-Oriented Programming (OOP)</li> <li>Database Management System</li> </ul>
 <br></br>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&textColor=ffffff&fontColor=ffffff"/> </p> <h2 align="center">🌐 Connect with Me 🌐</h2> <p align="center"> <a href="https://www.linkedin.com/in/ram-praveen-kumar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.codechef.com/users/praveen_0905" target="_blank"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-%23FFA116.svg?&style=for-the-badge&logo=codechef&logoColor=white" /></a> <a href="https://leetcode.com/u/rpkumar09/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a> </p>
