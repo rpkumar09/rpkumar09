@@ -25,8 +25,9 @@
 
 <h2 align="center">🛠 Technical Skills 🛠</h2>
 <p align="center"> 
-  <a href="github.com/4bdulQaadir"><img src="https://skillicons.dev/icons?i=c++,c,html,css,mysql,vscode,github,git,aws,javascript,Mongo DB,BootStrap , Express.JS , React.JS , Node.JS
-"> </a> 
+  <a href="https://github.com/4bdulQaadir">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,mysql,vscode,github,git,aws,js,mongodb,bootstrap,express,react,nodejs">
+  </a> 
 </p>
 
 <br></br>
