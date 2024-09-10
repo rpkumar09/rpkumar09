@@ -2,7 +2,6 @@
 <h3 align="center">Full Stack Web Developer | Tech Enthusiast</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/b-abdul-qaadir-9822b523a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://x.com/4bdulqaadir" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
     <a href="https://leetcode.com/u/rpkumar09/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
     <a href="https://www.codechef.com/users/praveen_0905" target="_blank"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-%23B94629.svg?&style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
@@ -26,7 +25,8 @@
 
 <h2 align="center">🛠 Technical Skills 🛠</h2>
 <p align="center"> 
-  <a href="github.com/4bdulQaadir"><img src="https://skillicons.dev/icons?i=python,c,java,html,css,mysql,tensorflow,vscode,github,git,pycharm,aws,opencv,sqlite,sklearn"> </a> 
+  <a href="github.com/4bdulQaadir"><img src="https://skillicons.dev/icons?i=c++,c,html,css,mysql,vscode,github,git,aws,javascript,Mongo DB,BootStrap , Express.JS , React.JS , Node.JS
+"> </a> 
 </p>
 
 <br></br>
